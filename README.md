@@ -52,11 +52,11 @@ A repository dedicated to experimenting with Computer Vision models and image ge
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DOANCONGPHU&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOANCONGPHU&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ A repository dedicated to experimenting with Computer Vision models and image ge
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/...](...)
-- **Email:** ...@gmail.com
+- **Email:** congp848@gmail.com
 - **Portfolio:** ...
 
 ---
